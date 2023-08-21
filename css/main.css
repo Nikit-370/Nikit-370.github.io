@@ -1870,6 +1870,17 @@ header{
 	transform: scale(1.05);
 }
 
+.folio-item {
+    margin-bottom: 20px;
+  }
+
+  .folio-item .item-wrap {
+    padding-right: 20px;
+  }
+
+  
+
+
 /**
  * responsive:
  * portfolio
